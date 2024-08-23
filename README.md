@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-I am JOAO
-I'm 16 years old
-I'm in the 1st year of high school
-I play football in my free time
+-I am JOAO
+-I'm 16 years old
+-I'm in the 1st year of high school
+-I play football in my free time
 
 ![](octocat-1723818475675.png)
 
