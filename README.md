@@ -11,5 +11,3 @@ Here are some ideas to get you started:
 -I play football in my free time
 -1°TAIA, numero 16
 ![](octocat-1723818475675.png)
-
-![Uploading octocat-1724422886430.png…]()
